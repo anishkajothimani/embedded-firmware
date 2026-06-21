@@ -37,6 +37,3 @@ A structured embedded firmware journey built on the STM32 platform — 14 progre
 
 ---
 
-## Author
-
-Anishka J
